@@ -1,6 +1,6 @@
 // Happy New Year!!!
 
-//
+//https://github.com/Jonniek01/newyear.git
 //background canvas
 class Snowflake {
     constructor() {
@@ -90,7 +90,6 @@ class Snowflake {
   
   new Snow();
   
-  ////////////////////////////////////////////////////////////
   // Simple CountDown Clock
   
   const d = document.getElementById("d");

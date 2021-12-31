@@ -1,3 +1,7 @@
+/* Happy New Year!!!
+https://github.com/Jonniek01/newyear.git */
+
+
 @import url("https://fonts.googleapis.com/css?family=Aleo");
 
 :root {
@@ -78,3 +82,17 @@ canvas {
     font-size: 2rem;
   }
 }
+.gith>a{
+    text-decoration: none;
+    color: white;
+
+
+
+}
+.gith{
+    margin-top:5vh ;
+}
+.gith>a:hover{
+    color:black;
+}
+
